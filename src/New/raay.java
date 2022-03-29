@@ -17,8 +17,8 @@ System.out.println("****************");
 for (int[] is : a) {
 for (int i : is) {
 System.out.println(i);
-}	
+System.out.println("passi");
 }
-
+}	
 }
 }
